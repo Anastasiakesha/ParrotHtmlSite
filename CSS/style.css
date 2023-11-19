@@ -5,7 +5,7 @@
 }
 
 html {
-  background-image: url(../images/staya.jpg);
+  background-image: url(Anastasiakesha.github.io/ParrotHtmlSite/images/staya.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -62,7 +62,7 @@ img {
   justify-content: center;
   min-width: fit-content;
   height: 100vh;
-  background: url("../images/intro1.jpeg") center no-repeat;
+  background: url("Anastasiakesha.github.io/ParrotHtmlSite/images/intro1.jpeg") center no-repeat;
   background-blend-mode: multiply;
   background-color: #362c34;
   -webkit-background-size: auto;
@@ -70,7 +70,7 @@ img {
 }
 
 .header_title:hover {
-  cursor: url("../images/Cur.png"), pointer;
+  cursor: url("Anastasiakesha.github.io/ParrotHtmlSite/images/Cur.png"), pointer;
   opacity: 1;
 }
 
@@ -82,19 +82,17 @@ img {
   text-transform: uppercase;
   text-align: center;
   line-height: 1;
-  background: url(../images/art3.jpg);
+  background: url(Anastasiakesha.github.io/ParrotHtmlSite/images/art3.jpg);
   color: transparent;
   -webkit-background-clip: text;
   animation: animate 10s infinite ease-in-out;
 
 }
 
-/*Навигация*/
 nav {
   display: flex;
   justify-content: space-between;
   font-size: 20px;
-  /* color: rgb(211, 138, 248); */
   text-transform: uppercase;
   position: fixed;
   z-index: 100;
@@ -154,9 +152,7 @@ nav a#pull {
   width: 250px;
   height: 250px;
  }
- /* .navbar .menu-items{
-  min-width: 350px;
-} */
+
 .navbar .menu-items li {
   font-size: 35px;
 }
@@ -226,7 +222,6 @@ h3{
 }
 
 
-/*Ссылки навигации*/
 .nav_link {
   font-family: 'Playpen Sans', sans-serif;
   display: inline-block;
@@ -265,7 +260,7 @@ h3{
 
 .nav_link:hover {
   color: rgb(255, 110, 221);
-  cursor: url("../images/Cur.png"), pointer;
+  cursor: url("Anastasiakesha.github.io/ParrotHtmlSite/images/Cur.png"), pointer;
   background-size: 0 3px, 100% 3px;
 }
 
@@ -281,11 +276,10 @@ h3{
   width: 100%;
   color: #0a9c73;
   font-size: 20px;
-  /* padding: 50px 15%; */
   font-family: 'Oswald', sans-serif;
 }
 
-/* Нижняя сноска */
+
 .footer {
   color: #9d3bda;
   font-size: 17px;
@@ -293,7 +287,7 @@ h3{
   background-color: #ffffff;
 }
 
-/* Ссылки нижней сноски*/
+
 .footer_link {
   text-decoration: none;
   color: rgba(100, 200, 200, 1);
@@ -314,7 +308,7 @@ h3{
 
 .footer_link:hover {
   color: rgb(238, 60, 197);
-  cursor: url("../images/Cur.png"), pointer;
+  cursor: url("Anastasiakesha.github.io/ParrotHtmlSite/images/Cur.png"), pointer;
   background-size: 0 3px, 100% 3px;
 }
 
@@ -452,11 +446,6 @@ h3{
 ::-webkit-scrollbar-thumb {
   box-shadow: inset 0 0 6px #380656;
 }
-
-
-
-/* Навигация гамбургер */
-
 
 
 .navbar {
