@@ -70,7 +70,7 @@ img {
 }
 
 .header_title:hover {
-  cursor: url("images/Cur.png"), pointer;
+  cursor: url("../images/Cur.png"), pointer;
   opacity: 1;
 }
 
@@ -82,7 +82,7 @@ img {
   text-transform: uppercase;
   text-align: center;
   line-height: 1;
-  background: url("images/art3.jpg");
+  background: url("../images/art3.jpg");
   color: transparent;
   -webkit-background-clip: text;
   animation: animate 10s infinite ease-in-out;
@@ -261,7 +261,7 @@ h3{
 
 .nav_link:hover {
   color: rgb(255, 110, 221);
-  cursor: url("images/Cur.png"), pointer;
+  cursor: url("../images/Cur.png"), pointer;
   background-size: 0 3px, 100% 3px;
 }
 
@@ -309,7 +309,7 @@ h3{
 
 .footer_link:hover {
   color: rgb(238, 60, 197);
-  cursor: url("images/Cur.png"), pointer;
+  cursor: url("../images/Cur.png"), pointer;
   background-size: 0 3px, 100% 3px;
 }
 
