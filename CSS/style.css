@@ -5,7 +5,7 @@
 }
 
 html {
-  background-image: url("images/staya.jpg");
+  background-image: url("../images/staya.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -62,7 +62,7 @@ img {
   justify-content: center;
   min-width: fit-content;
   height: 100vh;
-  background: url("images/intro1.jpeg") center no-repeat;
+  background: url("../images/intro1.jpeg") center no-repeat;
   background-blend-mode: multiply;
   background-color: #362c34;
   -webkit-background-size: auto;
